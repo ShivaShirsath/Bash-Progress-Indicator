@@ -1,11 +1,11 @@
 #!/bin/bash
 
 o=( \
-	Ooooo \
-	oOooo \
-	ooOoo \
-	oooOo \
-	ooooO \
+	'Ooooo' \
+	'oOooo' \
+	'ooOoo' \
+	'oooOo' \
+	'ooooO' \
 )
 s=( \
 	'/' \
